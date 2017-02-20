@@ -10,14 +10,14 @@
     <title>De Havenkom</title>
 
     <!-- Bootstrap -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-    <link href="css/bootstrap1.css" rel="stylesheet">
+    <link href="./css/bootstrap.min.css" rel="stylesheet">
+    <link href="./css/bootstrap1.css" rel="stylesheet">
     
 
   </head>
   <body>
           <?php include 'build/navbar.php';?>
-    <h1>Hello, world!</h1>
+    <h1>Hello world!</h1>
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
