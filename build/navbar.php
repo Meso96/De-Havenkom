@@ -18,6 +18,3 @@
         </div>
     </div>
 </nav>
-    </div><!-- /.navbar-collapse -->
-  </div><!-- /.container-fluid -->
-</nav>

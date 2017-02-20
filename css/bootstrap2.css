@@ -2,12 +2,12 @@ body{
     padding-top: 50px;
 }
 .navbar{
+    color: white;
     height: 50px;
     background-color: #16738F;
-    color: #fff;
-    border-radius: 0px;
-    margin: 0px;
+    margin-bottom: 0px;
 }
 .nav > li{
-    background-color: #e0e0e0;
+    background-color: #16738F;
+    color: white;
 }
