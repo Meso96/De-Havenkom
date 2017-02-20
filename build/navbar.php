@@ -10,11 +10,14 @@
         </div>
         <div class="collapse navbar-collapse in" id="mainNavbar" >
             <ul class="nav navbar-nav">
-                <li class="active"><a href="informatie.php">Informatie</a></li>
+                <li><a href="informatie.php">Informatie</a></li>
                 <li><a href="contact.php">Contact</a></li>
                 <li><a href="menukaart.php">Menukaart</a></li>
                 <li><a href="reserveren.php">Reserveren</a></li>
             </ul>
         </div>
     </div>
+</nav>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
 </nav>

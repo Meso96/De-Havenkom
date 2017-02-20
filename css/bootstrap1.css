@@ -1,9 +1,9 @@
 body{
-    padding-top: 50px;
+    padding-top: 5000px;
 }
 .navbar{
     height: 50px;
-    background-color: #fff;
+    background-color: #00FF00;
 }
 .nav > li{
     background-color: #000;
