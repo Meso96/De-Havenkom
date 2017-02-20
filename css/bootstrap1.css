@@ -3,4 +3,8 @@ body{
 }
 .navbar{
     height: 50px;
+    background-color: #fff;
+}
+.nav > li{
+    background-color: #000;
 }

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 
 <html lang="nl">
-    <?php include 'build/navbar.php';?>
+
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -16,6 +16,7 @@
 
   </head>
   <body>
+          <?php include 'build/navbar.php';?>
     <h1>Hello, world!</h1>
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
