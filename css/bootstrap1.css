@@ -1,26 +1,50 @@
 body{
-    padding-top: 66px;
+    padding-top: 50px;
+    background-color: rgb(101,101,101); 
     margin-top: 5%;
     margin-left: 5%;
 }
+
+.navbar-collapse{
+    border-top: 0;
+    border-bottom: 0;
+    
+}
+
 .navbar{
-    padding-top: 16px;
+    border-bottom: 0px;
     margin-top: 5%;
     margin-left: 5%;
-    height: 50px;
+    height: 100px;
     background-color: transparent;
     border-bottom: 0;
 }
-.nav > li{
+.nav> li{
     border-top: 0px;
-    background-color: #eee;
-    margin-left: 5px;
-    margin-right: 5px; 
+    background-color: rgba(200,200,200,0.5);
+    margin-left: 20px;
 }
+
+.nav>li>a{
+    
+    color:rgba(0,0,0,0.5) !important;
+}
+
+.nav> li> a:hover,
 .nav> li> a:focus{
-    background-color: #fff;
+    background-color: rgba(200,200,200,0.7) !important;
+    color:rgba(0,0,0,1) !important;
+}
+
+.navbar-brand{
+    margin-right: 20px;
+}
+
+.navbar-brand:hover{
+    background-color: rgba(200,200,200,0.5) !important;
 }
 
 .navbar-header{
     background-color: transparent;
+    border-bottom: 0;
 }
