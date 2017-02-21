@@ -8,7 +8,7 @@
             </button>
             <a class="navbar-brand" href="index.php">De havenkom</a>
         </div>
-        <div class="collapse navbar-collapse in" id="mainNavbar" >
+        <div class="collapse navbar-collapse in" id="mainNavbar" aria-expanded = "false">
             <ul class="nav navbar-nav">
                 <li><a href="informatie.php">Informatie</a></li>
                 <li><a href="contact.php">Contact</a></li>

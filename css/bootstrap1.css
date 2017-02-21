@@ -1,12 +1,50 @@
 body{
     padding-top: 50px;
+    background-color: rgb(101,101,101); 
+    margin-top: 5%;
+    margin-left: 5%;
 }
+
+.navbar-collapse{
+    border-top: 0;
+    border-bottom: 0;
+    
+}
+
 .navbar{
-    height: 50px;
-    background-color: #16738F;
-    border-radius: 0px;
-    margin: 0px;
+    border-bottom: 0px;
+    margin-top: 5%;
+    margin-left: 5%;
+    height: 100px;
+    background-color: transparent;
+    border-bottom: 0;
 }
-.nav > li{
-    background-color: #e0e0e0;
+.nav> li{
+    border-top: 0px;
+    background-color: rgba(200,200,200,0.5);
+    margin-left: 20px;
+}
+
+.nav>li>a{
+    
+    color:rgba(0,0,0,0.5) !important;
+}
+
+.nav> li> a:hover,
+.nav> li> a:focus{
+    background-color: rgba(200,200,200,0.7) !important;
+    color:rgba(0,0,0,1) !important;
+}
+
+.navbar-brand{
+    margin-right: 20px;
+}
+
+.navbar-brand:hover{
+    background-color: rgba(200,200,200,0.5) !important;
+}
+
+.navbar-header{
+    background-color: transparent;
+    border-bottom: 0;
 }
