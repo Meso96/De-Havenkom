@@ -3,16 +3,17 @@
     <head>
          <?php include 'build/header.php' ?>
     </head>
-    <body>
+    <body id="menukaart">
 <?php include 'build/navbar.php'?>
 
 
-<div class="row">
-	<div class="col-md-1">
-		<!--Linker kant-->
-	</div>
-  <div class="col-md-3">
+<div class="row"id="menuitem">
+
+  <div class="col-lg-4 col-lg-offset-1" >
+			
+
 			<h2>Lunch</h2>
+
 				<ul>
 				<li>Iets</li>
 				<li>Iets</li>
@@ -22,7 +23,7 @@
 				<li>Iets</li>
 				</ul>
 			<br>
-			<h2>Diner</h2>
+			<h2>Hoofdgerechten</h2>
 			<ul>
 				<li>Iets</li>
 				<li>Iets</li>
@@ -42,8 +43,22 @@
 				<li>Iets</li>
 				<li>Iets</li>
 			</ul>
+                        <h2>Nagerechten</h2>
+                        <ul>
+				<li>Iets</li>
+				<li>Iets</li>
+				<li>Iets</li>
+				<li>Iets</li>
+				<li>Iets</li>
+				<li>Iets</li>
+				<li>Iets</li>
+			</ul>
 		</div>
-  <div class="col-md-3">
+
+  
+			
+
+  <div class="col-lg-4">
 			<h2>Fris</h2>
 			<ul>
 				<li>Iets</li>
@@ -68,7 +83,7 @@
 				<li>Iets</li>
 			</ul>
 			<br>
-			<h2>Wijn</h2>
+			<h2>Dranken</h2>
 			<ul>
 				<li>Iets</li>
 				<li>Iets</li>
@@ -77,9 +92,7 @@
 				<li>Iets</li>
 			</ul>
 		</div>
-		<div class="col-md-3">
-			<!--Rechter Kant-->
-		</div>
+		
 </div>
     </body>
 </html>
