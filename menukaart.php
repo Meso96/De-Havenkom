@@ -3,9 +3,10 @@
     <head>
          <?php include 'build/header.php' ?>
     </head>
+    
     <body id="menukaart">
 <?php include 'build/navbar.php'?>
-
+<?php session_start(); ?>
 
 <div class="row"id="menuitem">
 
