@@ -7,17 +7,13 @@
 <?php include 'build/navbar.php'?>
 
 
-<div class="row">
-<<<<<<< HEAD
-  <div class="col-lg-4 col-lg-offset-1" id="menuitem">
-			<h2>Voorgerechten</h2>
-=======
-	<div class="col-md-1">
-		<!--Linker kant-->
-	</div>
-  <div class="col-md-3">
+<div class="row"id="menuitem">
+
+  <div class="col-lg-4 col-lg-offset-1" >
+			
+
 			<h2>Lunch</h2>
->>>>>>> refs/remotes/origin/master
+
 				<ul>
 				<li>Iets</li>
 				<li>Iets</li>
@@ -47,12 +43,22 @@
 				<li>Iets</li>
 				<li>Iets</li>
 			</ul>
+                        <h2>Nagerechten</h2>
+                        <ul>
+				<li>Iets</li>
+				<li>Iets</li>
+				<li>Iets</li>
+				<li>Iets</li>
+				<li>Iets</li>
+				<li>Iets</li>
+				<li>Iets</li>
+			</ul>
 		</div>
-<<<<<<< HEAD
-  <div class="col-lg-4" id="menuitem">
-			<h2>Nagerechten</h2>
-=======
-  <div class="col-md-3">
+
+  
+			
+
+  <div class="col-lg-4">
 			<h2>Fris</h2>
 			<ul>
 				<li>Iets</li>
@@ -70,7 +76,6 @@
 				<li>Iets</li>
 			</ul>
 			<h2>Bier</h2>
->>>>>>> refs/remotes/origin/master
 			<ul>
 				<li>Iets</li>
 				<li>Iets</li>
@@ -87,9 +92,7 @@
 				<li>Iets</li>
 			</ul>
 		</div>
-		<div class="col-md-3">
-			<!--Rechter Kant-->
-		</div>
+		
 </div>
     </body>
 </html>
