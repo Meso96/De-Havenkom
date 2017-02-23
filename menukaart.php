@@ -3,12 +3,12 @@
     <head>
          <?php include 'build/header.php' ?>
     </head>
-    <body>
+    <body id="menukaart">
 <?php include 'build/navbar.php'?>
 
 
 <div class="row">
-  <div class="col">
+  <div class="col-lg-4 col-lg-offset-1" id="menuitem">
 			<h2>Voorgerechten</h2>
 				<ul>
 				<li>Iets</li>
@@ -30,7 +30,7 @@
 				<li>Iets</li>
 			</ul>
 		</div>
-  <div class="col">
+  <div class="col-lg-4" id="menuitem">
 			<h2>Nagerechten</h2>
 			<ul>
 				<li>Iets</li>
