@@ -16,7 +16,7 @@
    <br>
    <p>
    	Fusce feugiat leo et enim ornare auctor. Duis in erat lorem. Nullam aliquet justo nec enim faucibus pharetra non et metus. Donec non orci varius, elementum enim ac, aliquam ex. Aliquam porttitor condimentum velit et scelerisque. Cras sit amet arcu pretium, tincidunt nulla nec, placerat justo. In hac habitasse platea dictumst. Curabitur porttitor at est eget interdum. Etiam tincidunt congue molestie. Maecenas semper gravida interdum. Curabitur vel quam vel enim euismod sagittis. Duis faucibus dapibus dui ac convallis. Donec tristique ut nisl sed interdum. In id ornare quam.
-   </p>>
+   </p>
    	</body>
 
 </html>
