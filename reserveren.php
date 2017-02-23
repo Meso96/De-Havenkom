@@ -6,6 +6,10 @@
     <body>
 <?php include 'build/navbar.php'?>
 
+	<h2>Reserveren</h2>
+	<p>Hier kunt u reserveren voor een plekje in de havenkom.</p>
+	<p>Geef alstublieft de gewilde datum & tijd, aantal personen, contactgegevens en eventuele andere inforematie die wij zouden moeten weten.</p>
+	<br>
 	<div id="resmio-de-havenkom">
 	</div> 
 	<script>(function(d, s) {
