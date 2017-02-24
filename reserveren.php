@@ -6,7 +6,7 @@
     <body>
 <?php include 'build/navbar.php'?>
 
-	<h2>Reserveren</h2>
+	<h3>Reserveren</h3>
 	<p>Hier kunt u reserveren voor een plekje in de havenkom.</p>
 	<p>Geef alstublieft de gewilde datum & tijd, aantal personen, contactgegevens en eventuele andere inforematie die wij zouden moeten weten.</p>
 	<br>

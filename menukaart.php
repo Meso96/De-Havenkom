@@ -13,7 +13,7 @@
   <div class="col-lg-4 col-lg-offset-1" >
 			
 
-			<h2>Lunch</h2>
+			<h3>Lunch</h3>
 
 				<ul>
 				<li>Iets</li>
@@ -24,7 +24,7 @@
 				<li>Iets</li>
 				</ul>
 			<br>
-			<h2>Hoofdgerechten</h2>
+			<h3>Hoofdgerechten</h3>
 			<ul>
 				<li>Iets</li>
 				<li>Iets</li>
@@ -34,7 +34,7 @@
 				<li>Iets</li>
 				<li>Iets</li>
 			</ul>
-			<h2>Borrel</h2>
+			<h3>Borrel</h3>
 			<ul>
 				<li>Iets</li>
 				<li>Iets</li>
@@ -44,7 +44,7 @@
 				<li>Iets</li>
 				<li>Iets</li>
 			</ul>
-                        <h2>Nagerechten</h2>
+                        <h3>Nagerechten</h3>
                         <ul>
 				<li>Iets</li>
 				<li>Iets</li>
@@ -60,7 +60,7 @@
 			
 
   <div class="col-lg-4">
-			<h2>Fris</h2>
+			<h3>Fris</h3>
 			<ul>
 				<li>Iets</li>
 				<li>Iets</li>
@@ -68,7 +68,7 @@
 				<li>Iets</li>
 			</ul>
 			<br>
-			<h2>Koffie</h2>
+			<h3>Koffie</h3>
 			<ul>
 				<li>Iets</li>
 				<li>Iets</li>
@@ -76,22 +76,13 @@
 				<li>Iets</li>
 				<li>Iets</li>
 			</ul>
-			<h2>Bier</h2>
+			<h3>Bier</h3>
 			<ul>
 				<li>Iets</li>
 				<li>Iets</li>
 				<li>Iets</li>
 				<li>Iets</li>
-			</ul>
-			<br>
-			<h2>Dranken</h2>
-			<ul>
-				<li>Iets</li>
-				<li>Iets</li>
-				<li>Iets</li>
-				<li>Iets</li>
-				<li>Iets</li>
-			</ul>
+			</u>
 		</div>
 		
 </div>
