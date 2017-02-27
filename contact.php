@@ -15,7 +15,7 @@
         	Proin hendrerit eget tortor sed pharetra. Sed suscipit ex quis dolor faucibus facilisis. Nulla id augue non ligula tristique vulputate. Integer quis metus erat. Nullam sit amet iaculis tortor, a sodales mi. Nam finibus dui quam, ac consequat ligula iaculis vitae. Proin in condimentum magna. Integer nibh lorem, egestas in ipsum et, rhoncus ornare ipsum. Proin sed urna at nibh molestie tempus. Cras blandit eleifend varius. Integer non justo placerat, interdum ex in, faucibus nisl.
         </p>
         
-        <a href="https://www.facebook.nl"><img src="http://www.freeiconspng.com/uploads/facebook-logo-new-8.png"></a>
+        <a href="https://www.facebook.nl"><img src="http://www.freeiconspng.com/uploads/facebook-logo-new-8.png" height="42" width="42"></a>
         
         
     </body>
